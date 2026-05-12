@@ -1,0 +1,13 @@
+name = "Shared Advancements"
+filename = "sharedadvancements-neoforge-1.21.X-6.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/78EIgPlj/versions/RHKUGqbz/sharedadvancements-neoforge-1.21.X-6.1.0.jar"
+hash-format = "sha512"
+hash = "691f322f4da21277612c7d35d2b71c9cbef406eeb7c8c8e082c798067ca654343ad54e48132a5e367f082b1dfce8fca22f926ee642dc9bafac5d16c00dff334a"
+
+[update]
+[update.modrinth]
+mod-id = "78EIgPlj"
+version = "RHKUGqbz"

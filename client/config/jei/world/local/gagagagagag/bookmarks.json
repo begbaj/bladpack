@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"recipe":"powah:crafting/thermo_generator_starter","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
+  {"recipe":"powah:crafting/thermo_generator_blazing","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"}
+]

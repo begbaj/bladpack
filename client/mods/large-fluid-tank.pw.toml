@@ -1,0 +1,13 @@
+name = "Large Fluid Tank"
+filename = "largefluidtank-neoforge-21.1.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uMlJQMHT/versions/Kv9Om9Yq/largefluidtank-neoforge-21.1.7.jar"
+hash-format = "sha512"
+hash = "b3cd548ec1bf2de5551055f5b254d1f17204264be91f43b3a9348eaddde049aaf38e10c0812b796afa74fcb8aac5be93c105681516e1fa6f17ce9d54a51bb50a"
+
+[update]
+[update.modrinth]
+mod-id = "uMlJQMHT"
+version = "Kv9Om9Yq"

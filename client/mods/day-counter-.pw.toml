@@ -1,0 +1,13 @@
+name = "Day Counter 🌞✅"
+filename = "simple-day-display-48.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/suiPCM19/versions/ZWyGIifd/simple-day-display-48.jar"
+hash-format = "sha512"
+hash = "87e87efb7837ea38b38d1ba129c89bcaec55f1cdac98d24d9c23ae4d19c77b9a1d803a6f040b7c4377fb08dce819880113f55ce8bf52e1b4b3a78eef3c3651d3"
+
+[update]
+[update.modrinth]
+mod-id = "suiPCM19"
+version = "ZWyGIifd"
