@@ -1,0 +1,17 @@
+filename = 'spell_engine-neoforge-1.9.8+1.21.1.jar'
+name = 'Spell Engine'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.9.8+1.21.1-neoforge'
+
+[download]
+hash = '90af94bb1c07b0337b081268130d2d5d89def0b2092227cd1dcbf7e2b6dd1e00ceb86d11b30cb98fff25d232e805f470cd4eecad43d03ea1372c0b6cfa1647ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/XvoWJaA2/versions/rZXWJFxX/spell_engine-neoforge-1.9.8%2B1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'XvoWJaA2'
+version = 'rZXWJFxX'

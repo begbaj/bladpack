@@ -1,0 +1,17 @@
+filename = 'smithingtemplateviewer-1.0.4.jar'
+name = 'SmithingTemplateViewer'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.21-1.0.4'
+
+[download]
+hash = '1f84361f7bfe955e8ff47f64c785bd84510b75d549937340034945fe99e177f23e074f9f20604e863dc4ff2c596392b0b6289b57636f02507da563bb6e6e5666'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/oJsYTCP3/versions/qVMQM4xq/smithingtemplateviewer-1.0.4.jar'
+
+[update.modrinth]
+mod-id = 'oJsYTCP3'
+version = 'qVMQM4xq'

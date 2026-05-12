@@ -1,0 +1,17 @@
+filename = 'MysticalAgriculture-1.21.1-8.0.23.jar'
+name = 'Mystical Agriculture'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21', '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '8.0.23'
+
+[download]
+hash = '23b78377dc597018f29a597f5cd6f2462ce3a6a644c70b1cb01262a75fcc183e7334929ff1a146d09ded09cfc74dd1ccd84c29fd6ac0f12a995a13c76b3be11a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/C95ReXie/versions/FmORWJsO/MysticalAgriculture-1.21.1-8.0.23.jar'
+
+[update.modrinth]
+mod-id = 'C95ReXie'
+version = 'FmORWJsO'
