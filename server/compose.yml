@@ -1,0 +1,56 @@
+services:
+  mc:
+    image: itzg/minecraft-server:latest
+    container_name: bladv2b
+    pull_policy: daily
+    tty: true
+    stdin_open: true
+    ports:
+      - "25565:25565"
+    environment:
+      MEMORY: "8G"
+      ICON: ./icon.png
+      OVERRIDE_ICON: true
+      USE_AIKAR_FLAGS: true
+      MOTD: "\u00A7oL'unico \u00A7rposto in cui vorrei \u00A7lvivere:\u00A7r\u00A74Emilia \u00A76Romagna"
+      DIFFICULTY: "hard"
+      OPS: |
+        Dyrem
+      LEVEL: "world"
+      SERVER_NAME: "Emilia Romagna"
+      EULA: "TRUE"
+      DATAPACKS: "https://cdn.modrinth.com/data/VoVJ47kN/versions/b3J8pJcW/BlazeandCave%27s%20Advancements%20Pack%201.17.2.zip?mr_download_reason=standalone,https://cdn.modrinth.com/data/tpehi7ww/versions/BYUUUeZA/dungeons-and-taverns-v4.4.4.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge,https://cdn.modrinth.com/data/HSfsxuTo/versions/9vHj342y/Explorify%20v1.6.4%20f15-88.mod.jar?mr_download_reason=standalone&mr_game_version=1.21.1&mr_loader=neoforge"
+      MODPACK_PLATFORM: "MODRINTH"
+      MODRINTH_MODPACK: "bladpack"
+      VERSION: "LATEST"
+      MODRINTH_MODPACK_VERSION_TYPE: "beta"
+      MODRINTH_FORCE_SYNCHRONIZE: "true"
+      MODRINTH_EXCLUDE_FILES: |
+        e4mc
+        DistantHorizons
+        dynamic-fps
+        entityculling
+        ImmediatelyFast
+        iris-neoforge
+        moreculling
+        reeses-sodium-options
+        sodium
+        sodium-extra
+        sodiumdynamiclights
+        appleskin
+        BetterF3
+        xaerominimap
+        xaeroworldmap
+        simple-day-display
+        skinlayers3d
+        chat_heads
+        entity_model_features
+        entity_texture_features
+        notenoughanimations
+        waveycapes
+        shield_api
+        moreoverlays
+    volumes:
+      # attach the relative directory 'data' to the container's /data path
+      - ./bladv2b:/data
+    restart: "unless-stopped"
