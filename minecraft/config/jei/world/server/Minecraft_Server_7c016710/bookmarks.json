@@ -1,6 +1,0 @@
-[
-  {"version":2},
-  {"recipe":"ae2:network/parts/terminals","recipeType":"minecraft:crafting","bookmarkType":"RECIPE"},
-  {"ingredient":{"id":"minecraft:ghast_tear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:white_bed"},"type":"item_stack","bookmarkType":"INGREDIENT"}
-]
