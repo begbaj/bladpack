@@ -1494,7 +1494,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "23a6d125c91c8f4257c4e73fe320ce81f0b2a0c1d6316664296edca6b41acb70"
+hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
 metafile = true
 
 [[files]]
@@ -1943,9 +1943,9 @@ hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "571676e651a90a03e84e48d0ddaadb122db30a12b0b1edfbb56e752e491e5628"
-
-[[files]]
 file = "scripts/blad-recipies.zs"
 hash = "92f2cb110f962d78f7a627981d3643d093e7a58358be104c73b3812cfd3598d7"
+
+[[files]]
+file = "server/compose.yml"
+hash = "b9aa0b33056169541920d72fd9eae77be98fb050b366b09757aae719a10243cb"
