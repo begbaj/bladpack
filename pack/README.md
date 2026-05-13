@@ -1,26 +1,7 @@
 # Blad Modpack
+
 this readme is distributed with Blad Modpack
 
-## client-side only mods (disable these mods to get a working server):
-3D-Skin_layers
-AppleSkin
-BetterF3
-Chat Heads
-Distant Horizons
-Dynamic FPS
-E4mc
-EMF
-ETF
-Enchantment Descriptions
-Freecam
-Iris
-Just Enough Breeding
-More Overlays Updated
-Reese's Sodium Options
-Sodium
-Sodium Dynamic Lights
-Sodium Extra
-Sound Physics Remastered
-Wavey Capes
-Xaero
-YUNG's Menu Tweaks
+# Server
+
+To run a server, simply take the server/compose.yml file, put it in your server machine and run `docker compose up`. It should work out of the box as it is.
