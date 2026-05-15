@@ -1,8 +1,6 @@
 0.2.2
   fallingTree:
       - changed falling mode to istantaneous -> this seems to resolve a bug which leaves a single log floating after chopping
-      - increased max scan size from 500 to 750
-      - increased max size from 100 to 300
       - break order from LOWEST_FIRST to CLOSEST_FIRST
       - changed leaves breaking from true to false
   re-added gravestone mod
