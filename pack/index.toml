@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "731c8dfd618f57866db0f1b0c361061f763f41e5f0a8a924c9a9c13c5bbd1751"
+hash = "da8c6df4ccaccb464e32cd48751851727046269d59b23fff330881d938a3bc16"
 
 [[files]]
 file = "config/CoroUtil/General.toml"
@@ -554,7 +554,7 @@ hash = "3f7093a08ad5ae9173cc28ed136890d88ad1341ecc344fb13b878609ee2c0d70"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "4b5c3576d5773a71898acbeb3db612df85bd973833de73460e8aedb8e7e0d188"
+hash = "9b81d70f27fba08c62b7b25d747a455c2887d968ae6d906d0403345d51107d2c"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -1473,6 +1473,16 @@ hash = "dbd756dd9bb17e6ecebcf2d7052a67a2da1c7dd378bc2089bc154916080fe031"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "e88253c3633274c212b2c4628a26ba03ceba6afff561eb6f9488689fad4cad06"
+metafile = true
+
+[[files]]
+file = "mods/gravestone-x-curios-api-compat.pw.toml"
+hash = "89321cbcc8789aca2ba0e70cbd3e498de493a5f2b9db51f9c72d65d99c7afee7"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "b8aee2057378b6f054f94550684d9a3f41ded7cc47794c8b01c107c8c2115ceb"
 metafile = true
@@ -1493,13 +1503,18 @@ hash = "ed9c02dd76c8725c225906800f09a184a6d9089fcdd5a889f411d0aeff49a65f"
 metafile = true
 
 [[files]]
-file = "mods/inventory-tweaks-refoxed.pw.toml"
-hash = "4fbe04bd9f15b5c0f861472a9be7d95ca743c7ed820119cfb7e3caed12e071fb"
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
+metafile = true
+
+[[files]]
+file = "mods/item-obliterator.pw.toml"
+hash = "139c5ee36d4528998d33d47ec4c5538f9ce7043b2197879db5f8945e8fe991bb"
 metafile = true
 
 [[files]]
@@ -1545,6 +1560,11 @@ metafile = true
 [[files]]
 file = "mods/legendary-survival-overhaul.pw.toml"
 hash = "ac28adfc439374ba252cfeff8439c14894f70522b10549400a17ff5ecf221f2f"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
@@ -1615,6 +1635,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-customization.pw.toml"
 hash = "219ff3a5001c0ec619f7cc8ef5eb3aa6a836e3738e734c384c6376efeacfbf21"
+metafile = true
+
+[[files]]
+file = "mods/necronomicon.pw.toml"
+hash = "f4e01222594116f7ebe3bd3908ae066550172eafb9a1ef383b277be569c38e45"
 metafile = true
 
 [[files]]
