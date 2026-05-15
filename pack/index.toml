@@ -534,7 +534,7 @@ hash = "7116b95a9b6797af8db84e410a2ca2fdf6f813461e37cd04bff5af933f31567b"
 
 [[files]]
 file = "config/entity_model_features.json"
-hash = "e1440b2f4e3d4a0be2db9ee284b0ec8e0740aacc7bc97091b5be3817ffa1ebed"
+hash = "24b96b44263a5b8db218d02fe26038619946367041d78d7a8637010e703cd868"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -550,11 +550,11 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3f7093a08ad5ae9173cc28ed136890d88ad1341ecc344fb13b878609ee2c0d70"
+hash = "56b749256f5e0fcf7a059ed9fd132dc12032be6a3e32b163d0935cc3e78cc3ee"
 
 [[files]]
 file = "config/fallingtree.json"
-hash = "4b5c3576d5773a71898acbeb3db612df85bd973833de73460e8aedb8e7e0d188"
+hash = "e2d889c097000b3c103edee8256843b4edc6f7b981cadf71659b913c205e2486"
 
 [[files]]
 file = "config/ferritecore-mixin.toml"
@@ -642,7 +642,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "9e3c4c4c7ad2f2a07fee0cb65cf8a440f85d4fd8ddf5490d46117bbfcc83118c"
+hash = "4008ba2560387dedafc874498de9cd5b5acd1a2d741f5f4b600a4e29715afbb2"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -658,11 +658,11 @@ hash = "88195c5b9870536da9c776d7f59a0a08b25827fb5f0418c97b873516bea0ae13"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "7e660b4647a33c8eeecf08b33fdb9a9b426f12d6e3e13a40545e4b9af7a7e664"
+hash = "bef002afa5fddc6ed4e2cdbf5cf013c32e5977bb720bab90fd82f5335b19cea2"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "4fc924d86e2f846b76c781435503b3505b65f2af46ff89ae9a63066bf6e0e1bc"
+hash = "5ed120371f5aa08f2fa1ef5877f0c1dd6216bcc38add246aa3f9ea0a5923fe52"
 
 [[files]]
 file = "config/jamlib/known_suspicious_jars.txt"
@@ -901,10 +901,6 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
-file = "config/sodium-fingerprint.json"
-hash = "051b17bcbc76ac7863b01f6bfa18fab07b4f9632b099f0553d46470be34d3512"
-
-[[files]]
 file = "config/sodium-mixins.properties"
 hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
@@ -942,7 +938,7 @@ hash = "368cfc853e44c77ebd1f6f43484ae1264f393f0e927391cb04ae9c0916b6e90c"
 
 [[files]]
 file = "config/spell_engine/client.json5"
-hash = "13aedb7f23f7133a726c8c74dd0570c7b5f6e4d67a4e1a5a1b862b4c67738df4"
+hash = "cf3e7d246ef94d05a4881333de4987005f4c6124982b64f9265009ce0973eed7"
 
 [[files]]
 file = "config/spell_engine/elemental_weaknesses.json"
@@ -954,7 +950,7 @@ hash = "b3342d39bea6633b095b67dcb7d6fbccf07ea9ddd19116ea4ca2cd747861f318"
 
 [[files]]
 file = "config/spell_engine/server.json5"
-hash = "96e90c942dd9c71df1af1b1a8a91987be0fda4984666115f1da9c4b329abca94"
+hash = "62f577a45b3769b644a269aba10038cc1b11328f219520cd743e04262985cd30"
 
 [[files]]
 file = "config/spell_engine/spell_container_templates_v2.json"
@@ -970,7 +966,7 @@ hash = "697766868cb4e9665943fdd2343a727fadc9ce013b85213985260c1dd51c91fb"
 
 [[files]]
 file = "config/tectonic.json"
-hash = "4eefc0bffa162e6afa79e0c796d91d50ff2b92d59fae05babf9886e6527a54c9"
+hash = "646315940ec514c87f18df363e46fb9ec965b9797c48969fc90e5e02384e3897"
 
 [[files]]
 file = "config/terrablender.toml"
@@ -1280,6 +1276,11 @@ metafile = true
 [[files]]
 file = "mods/azurelib-armor.pw.toml"
 hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
+metafile = true
+
+[[files]]
+file = "mods/baguettelib.pw.toml"
+hash = "762fcd212e5049e6e8dcece301c4f33a17d3fc9b00744301c52c4695d7015523"
 metafile = true
 
 [[files]]

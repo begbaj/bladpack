@@ -91,6 +91,9 @@
   "waystones": {
     "waystone": true
   },
+  "gravestone": {
+    "grave": true
+  },
   "mysticalagriculture": {
     "infused_farmland": true,
     "crop": true,
