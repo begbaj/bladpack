@@ -46,26 +46,26 @@ _version = 4
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
-				verticalQuality = "LOW"
+				verticalQuality = "MEDIUM"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# FAKE: LODs will be opaque, but shaded to match the blocks underneath. 
 				# DISABLED: LODs will be opaque.
-				transparency = "DISABLED"
+				transparency = "COMPLETE"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
 				# NONE: Represent all blocks in the LODs 
 				# NON_COLLIDING: Only represent solid blocks in the LODs (tall grass, torches, etc. won't count for a LOD's height)
-				blocksToIgnore = "NON_COLLIDING"
+				blocksToIgnore = "NONE"
 				#
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
 				# True: a red flower will tint the grass below it red. 
 				# False: skipped blocks will not change color of surface below them.
-				tintWithAvoidedBlocks = true
+				tintWithAvoidedBlocks = false
 				#
 				# How should LODs be shaded? 
 				# 
@@ -92,7 +92,7 @@ _version = 4
 				# NONE: Fastest, there will be a pronounced border between DH and MC rendering. 
 				# SINGLE_PASS: Fades after MC's transparent pass, opaque blocks underwater won't be faded. 
 				# DOUBLE_PASS: Slowest, fades after both MC's opaque and transparent passes, provides the smoothest transition.
-				vanillaFadeMode = "SINGLE_PASS"
+				vanillaFadeMode = "DOUBLE_PASS"
 				#
 				# Should DH fade out before reaching the far clip plane? 
 				# This is helpful to prevent DH clouds from cutting off in the distance.
@@ -373,7 +373,7 @@ _version = 4
 				# Note: Due to current limitations, the min value is [50] 
 				# and the max value is 5000. Any values outside this range 
 				# will be set to 0 (disabled).
-				earthCurveRatio = 500
+				earthCurveRatio = 0
 				#
 				# A comma separated list of dimension resource locations where DH won't render. 
 				# 
@@ -442,7 +442,7 @@ _version = 4
 			# NOTE: Do not report any issues when this mode is on! 
 			#    This setting is only for fun and debugging. 
 			#    Mod compatibility is not guaranteed.
-			lodOnlyMode = true
+			lodOnlyMode = false
 			#
 			# If enabled the LODs will render as wireframe.
 			renderWireframe = false
