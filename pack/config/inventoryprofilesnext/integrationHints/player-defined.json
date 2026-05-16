@@ -168,7 +168,7 @@
     "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
         "buttonHints": {
             "MOVE_TO_CONTAINER": {
-                "horizontalOffset": 24,
+                "horizontalOffset": 82,
                 "bottom": 16
             },
             "SORT": {
@@ -194,5 +194,36 @@
                 "top": 32
             }
         }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 60
+            },
+            "SORT": {
+                "horizontalOffset": 60
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 60
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 60
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 50
+            },
+            "SORT_PLAYER": {
+                "horizontalOffset": 50
+            },
+            "SORT_COLUMNS_PLAYER": {
+                "horizontalOffset": 50
+            },
+            "SORT_ROWS_PLAYER": {
+                "horizontalOffset": 50
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": {
+        "ignore": true
     }
 }

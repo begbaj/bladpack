@@ -43,14 +43,10 @@
                 "keys": ""
             }
         },
+        "auto_refill_enable_per_slot_config": {
+            "value": false
+        },
         "auto_refill_enable_indicator_icons": {
-            "main": {
-                "keys": "LEFT_CONTROL",
-                "settings": {
-                    "activate_on": "BOTH",
-                    "context": "GUI"
-                }
-            },
             "value": false
         },
         "auto_refill_enable_horbar_indicator_icons": {

@@ -10,7 +10,7 @@ hash = "6003299fd97cb6b383ca3df88a2a676c565585799b1e14bb2987617ee189c7c2"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "1a44f54b0c70b05c9b4d7d8d298fefffc61b3896b0d19821b9af56fff51d2cd3"
+hash = "177e7073885f6d54c10084bc46a4b72e26a3d731c95ddda018f514ff8b335f40"
 
 [[files]]
 file = "config/Mekanism/additions-1.toml.bak"
@@ -34,7 +34,7 @@ hash = "c77b0e5cdb12e2cce3791b3a376dbbf51876b14982d58e5b175ef346bd7debe7"
 
 [[files]]
 file = "config/Mekanism/client.toml"
-hash = "1464f25af79362ad16311c8fe4fe6140273ba1ce64b4679486b3a41bfd12525d"
+hash = "bc9a53d259230f899a1a5e079cb8803b435800ffbe111d2f4190cd5b28fef104"
 
 [[files]]
 file = "config/Mekanism/common-1.toml.bak"
@@ -197,6 +197,10 @@ file = "config/ae2-common.toml"
 hash = "0b13fbe2bd57729f040dc9574e6fc826b30b8bfc75da69d244440a9fdd8477c7"
 
 [[files]]
+file = "config/ae2wtlib-client.toml"
+hash = "db7756852f45e51b0e40336f701fe0719a5d11e082a286c06885839e33d38354"
+
+[[files]]
 file = "config/ae2wtlib.toml"
 hash = "18894f2fb101d59d2740d60c8a630fda90edfc59700acad1ae012ceade58a5d5"
 
@@ -287,6 +291,10 @@ hash = "05061c53eeeb2088fc9b73a7d3e132a06c63f44fae20fe742ac073850f3af8e7"
 [[files]]
 file = "config/balm-common.toml"
 hash = "308a6676388aa141743cff3215ea82dc796feaf870b33dca4dc29ede58976f88"
+
+[[files]]
+file = "config/better-advanced-tooltips-client.toml"
+hash = "167486d8ac09ab9959c9b98c97c169365eaa9e5be0488b9ff8e6a04695d456e0"
 
 [[files]]
 file = "config/betteradvancements-client.toml"
@@ -429,6 +437,10 @@ file = "config/blur.json"
 hash = "5600eba198ccf110db24e436a4568f3e0355e44a2db5ff96e5fad703b0c712fa"
 
 [[files]]
+file = "config/c2me.toml"
+hash = "f95f31b691eaee7cfb116c3d59c940592fbf563809c1ce055cd6af92413692f9"
+
+[[files]]
 file = "config/carryon-client.toml"
 hash = "c3cbcb17ade590daf230373d51457732bc8d9dd1039f7947b6bf564e38df1d9c"
 
@@ -450,7 +462,7 @@ hash = "2d698d9ea6479c3994e968a5b5a918f0f6dc7aa5350d5f3b41211fea4ef4c91b"
 
 [[files]]
 file = "config/chunky/tasks/minecraft/overworld.properties"
-hash = "3bec44c0c6ce0b7fce6c1c4d8c571c050019df9cab0b861816d275306dfb7812"
+hash = "57986d8c41cc8d223b4266c556715b5e3d63e9b2f75d7d82c9fa4e75479859be"
 
 [[files]]
 file = "config/collective.json5"
@@ -465,8 +477,12 @@ file = "config/configured-client.properties"
 hash = "a9f1058d68eb630eb4783d12da4a5dea5c2f5481fdf38280e33944b9593d2d9c"
 
 [[files]]
-file = "config/craftingtweaks-common.toml"
+file = "config/craftingtweaks-common-1.toml.bak"
 hash = "8404663a4f4206a11ae837f14b4630f1a759bcad11690fd1082237a9c9733781"
+
+[[files]]
+file = "config/craftingtweaks-common.toml"
+hash = "c4a8d180b5ea4196a3a1ba06c39ef7fd5e91cd80ad5dfc0b9f1007c1c9e38c34"
 
 [[files]]
 file = "config/creativecore-client.json"
@@ -507,6 +523,10 @@ hash = "16c71790deac2bbdea0099e39cdf8eb47b3dd7ef6337b69ba9fce793a1bf9674"
 [[files]]
 file = "config/curios-server.toml"
 hash = "3c34cf9f7918c6a9ec15b14a87aa4570a751c1688f8ac01cb2e9acfb9392a734"
+
+[[files]]
+file = "config/distraction_free_recipes-client.toml"
+hash = "2a0e761f7293d92e3700aad72acc63c00140c3bfc95ac305eba41cfec8197f2c"
 
 [[files]]
 file = "config/dynamic_fps.json"
@@ -550,7 +570,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "56b749256f5e0fcf7a059ed9fd132dc12032be6a3e32b163d0935cc3e78cc3ee"
+hash = "9eb4d1584a0cbb091f345af703ee57d045fccdba37f68c3ae0aa143822a47e81"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -583,6 +603,14 @@ hash = "26ac5810c9b5dc5c1968827357f0a58c58ac2b6f7b082630960228e16585062f"
 [[files]]
 file = "config/gazebo/villages.json"
 hash = "ebc11a813717c51291ca41d61314bceb4e60f551b04a97ad4184e14162a3cc71"
+
+[[files]]
+file = "config/gravestone-client.toml"
+hash = "6979ddda3b2c727de8a6bf2bdc3da67abeda22072c92ecfc1406f389e4eeebb8"
+
+[[files]]
+file = "config/gravestone-server.toml"
+hash = "746ced134e9f2bf1cf0ce28931028457d5cffa3fec6b2e3f5496d33786686d8a"
 
 [[files]]
 file = "config/guideme.toml"
@@ -633,6 +661,630 @@ file = "config/industrialforegoing/machine-resource-production.toml"
 hash = "7165754eee13e0378db81c047006ea403895747293ac0198435e9076d7955c43"
 
 [[files]]
+file = "config/inventoryprofilesnext/ModIntegrationExport.json"
+hash = "e522e7f8c9760d53cfb3a178c05840d4536d3749b1f989b222c4c7fdc7780671"
+
+[[files]]
+file = "config/inventoryprofilesnext/aaaaaaaa/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/aaaaaaaa/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/all-items.txt"
+hash = "548c3a2875815934382955aeb7d0cc5e7ad47c740d8b4eda86863e0d36ef7f52"
+
+[[files]]
+file = "config/inventoryprofilesnext/auto-screens/blocks-entities-with-screens.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/auto-screens/blocks-with-screens.txt"
+hash = "86e8dbfad973fba914a61c85164e4f265de3a8938217868afaf6a0096d039f8f"
+
+[[files]]
+file = "config/inventoryprofilesnext/auto-screens/item-with-screens.txt"
+hash = "8964583df6e9640109973c9e8ed7ee28c610c75d3997f6c444c6800252a7a2ee"
+
+[[files]]
+file = "config/inventoryprofilesnext/auto-screens/multi-screens.txt"
+hash = "e0f237f756c2633e60930f70cf1f3dc082f0341b261fdc7b26cf82447d975e05"
+
+[[files]]
+file = "config/inventoryprofilesnext/auto-screens/namespaces.txt"
+hash = "0921d2a2b7af52ef626330bb466a8b59208658ee21271e334273c38bf61dd64b"
+
+[[files]]
+file = "config/inventoryprofilesnext/auto-screens/script.txt"
+hash = "f36123c5c70a44044b892bf32e5dd80a155b332a39b997cc74fcfcb46ddf05e0"
+
+[[files]]
+file = "config/inventoryprofilesnext/auto-screens/unknown-screens.txt"
+hash = "b1cac8f9281bad96a799a3d346b5593192aa7e4cb98759dd0592c39d4a55d382"
+
+[[files]]
+file = "config/inventoryprofilesnext/bak/New World/lockSlots.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/bak/New World/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/bak/New World/refillDisabledSlots.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/bak/New World/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/bak/aaaaaaaa/prev-villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/bak/aaaaaaaa/refillDisabledSlots.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/inventoryprofilesnext/bak/aaaaaaaa/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/advgenerators.json"
+hash = "c3163493186f5be6d4f21d4f09d2e51359678fb2dd2711dca869429c6ac6fc78"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2.json"
+hash = "adddf5077098e00d2885738bbfca4067e81d8fb84f0388d251b6c30a4ba2c901"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2additions.json"
+hash = "808693cc7ad56ed2e1c70f9992f6baad4c39413a554a1d0f58392615c65b60e5"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2things.json"
+hash = "0778d468a209c27d28c23df784ef12acda02e75d9dd812db8e87fecf6c1e8f0f"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ae2wtlib.json"
+hash = "bfe7458a00f5827ea5b38bcc25c78d28fa09e06dd111aaf298591762fe13a73c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/agap.json"
+hash = "56a17ec959ddd16a694e8e35ea8c7f63e43ac915547abfae0c5695a8505ed1eb"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/aquaculture.json"
+hash = "9f92ef92b481921489b3dd2f151625cdb01f33ae2461a412d3cb07a395a0f4be"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/arcanus.json"
+hash = "3fefb3b1d815965f83817638901f3751aa018532c85eb8e2bd93c5aa4fa6afc2"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/assemblylinemachines.json"
+hash = "722e2e7ba99b7961dc06492eb34603ba5c5329d7b331e2d5a36b67688fea34d4"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/assortedstorage.json"
+hash = "8c755be12df3a5f23fe9626d5a80f30a22a5e53acff3c015817a7bc0dedd969b"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/astralsorcery.json"
+hash = "e84a219c808d34d769852db9042132ebe84dd70bda8e60c0f2910274b5d0a1cd"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/beyond_earth.json"
+hash = "6699e539a5546d810531c4523eb11aaaa5b7004914098462ef0f689f897d75c8"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/beyond_earth_giselle_addon.json"
+hash = "b9c6936d22e77cfc658df2c6bdeeb1f2a6ec96a125da3050b6a23a5bc0907c04"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/biggerreactors.json"
+hash = "43c2d51997714a130404b5499d81bc9805a9cd0263fd71746241a388c7076b7f"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/biomakeover.json"
+hash = "c5094afac72d76defe9bb8300a2fed285fe5cf5068c24dd1f6eab29744307c33"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/blue_skies.json"
+hash = "9a61372d7d2ad6fad26bc3f36152eed95af1526eced3adfafb5870dbc619ddeb"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/bonsaitrees3.json"
+hash = "7eacc7f499f3363890dd9de088e5726ec172363b885e66a560c9576f1e3dc42e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/botania.json"
+hash = "1b1eef15aeefd96e886c9f287ad33ff7fef7fd2ee4c77b5bd38567da279c0bef"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/botanicalmachinery.json"
+hash = "618e912d77ddcdada1431d9314180a04b57ec7be9ff81aa414aaae007de98a47"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/cabletiers.json"
+hash = "bc1555220b3e7809940720158be49a39c4086b5bc3142da0579e1d02cb7a4362"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/cammera.json"
+hash = "8edb5118a4012340378f4cde12f49b78836590a3781d9e0e7d83a8fdfb877247"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/car.json"
+hash = "f0b3c023629234c200b467dfab177fa7b7f5eba6dc28e93fc9e074338086d0da"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/cfm.json"
+hash = "0b88c471415c8f106a5c39f493670afc7c159f176fe9c4480403e1090f2cade2"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/chiped.json"
+hash = "246afbbbb05125a10031d1b9a61e4607ea733cff39a990fea8a094f924b9c027"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/chipped.json"
+hash = "94d45e090294fca57070ea7708d3116a27dcc64f36bd9d43b8798fe70b1e53f1"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/chisel.json"
+hash = "51734562e3c25d8ec98d045682e2353a1899b93b9e74c1c0a1695f5b6fe7693c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/chiselsandbits.json"
+hash = "5374d5c11b32cf01e38dd05df399bdf5f8b4aedb5e2f3e0a95a16e4d8c57dc3e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/colossalchests.json"
+hash = "d9519ba59735283bacf4f6e9e957ed831a5edafb82a8b8674b34726e427d8c7e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/computercraft.json"
+hash = "6a3b994a549199a32ddbf595feaf3907f70cddbf0424105f7aaf89ed33b753a8"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/cookingforblockheads.json"
+hash = "96e13e920b42760dac57cb92abaa020762c6f32c63908ce40581e642cafaa971"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/corail_recycler.json"
+hash = "9749f7f820ae0b422c49d80064d2a31bcdbc14a2d2a45dc1de91cb3d95685095"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/corail_woodcutter.json"
+hash = "3486ba6c1a89d812840ba8cd31f3a8968bc9a601534f7ceb72ecafbaf2994dba"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/create.json"
+hash = "ccc93a71bf4dfad91d913e87f3e2c5b427c451f3f32287f7ad794af36745fde1"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/creativeapiary.json"
+hash = "66c14e5a0dfeafca966b1713ef555e411593daa2a79b0524fa22f489038296f0"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/creativecrafter.json"
+hash = "4a6c57139f9d5d254e1df25b2d0561c34312988b03344555cc948bb6eb0783b6"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/creativewirelesstransmitter.json"
+hash = "d3fbab85296f187672ce53bfd0b30ebb25971598f03f099c26789b8b8099e1c3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/culinaryconstruct.json"
+hash = "c5b4cb647f5e37106dd70d8ac22db200f2c3644484c9aa623de1b13ed8c1e2db"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/cyclic.json"
+hash = "b42e3c2c7112b9c29393e819fa0807cf5e3a83ec6a632533703d28c0c406765e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/dankstorage.json"
+hash = "8d68dcc793fc99b0381dbd689007e86f188a5c1e483a42dd960d8603b377e1f9"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/deepresonance.json"
+hash = "23742da1a1b2faacc32cc37ca65f549359e8d9391e243fede1773ffba6d701c0"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/demagnetize.json"
+hash = "5829f6709f130a3eedfbec8ee33d70fa2b2c627a354d508dadb57b363e7760c7"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/dimstorage.json"
+hash = "5c292abfb5f55879f67df86933166b66e02808277cd17bc8249a0b6d0bf94d95"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/doggytalents.json"
+hash = "3569c50c2b9421cd9f472064ded27f094024da86319f036e146c83f98f51d1a3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/draconicevolution.json"
+hash = "d4054ce3fcfe5a3e8fc3890bd511808824f035e67bd2c3cc0ef48f691e0b503f"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/easy_piglins.json"
+hash = "565ed11f5cfd0b772e884ec3dc239760c7b00029d886998be2bec0317b890bd1"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/easy_villagers.json"
+hash = "8fea116a83e6cfd2512782edbdd410386ac0e1fed034f6fa1e7eb512c484079c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/eidolon.json"
+hash = "a22363597b74f9a1d63b36d24337b762e676179fee05589429dc825bc533204d"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/electrodynamics.json"
+hash = "be74281f31464aed2abd3522aee653a28183a327180e1703cb3102c6cf880ef3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/elementalcraft.json"
+hash = "a264c00e69d5a4d979fdc8ade609c2804506dc3580f85b717a248d3b58d488f3"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/enderchests.json"
+hash = "f2723ee4c62035713074c4647f197c1fe21171afdf74a0c3cfd2ede8c3ccfcbc"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/enderrift.json"
+hash = "aefb2a3c68c89f5fa975fb9f8203b845381ca0205faf43250f05050ee2e69f72"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/energymeter.json"
+hash = "148e7386af37f60593f0a3205be245eaa44d3e19b5387475698ad9b1035c109a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/engineersdecor.json"
+hash = "1db850ececf81df1baafa649e01b99742a86f33c6c72e225fe1a81ab0bab9aaa"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/envirocore.json"
+hash = "a8392fb1354a00b39a4d1992cea23b35cd96a86d1f0af9c5d346101feef0a62a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/essentials.json"
+hash = "21d8d2a1107128dcbb70795c8badcbb69193431548debf432965101aa73727e9"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/evilcraft.json"
+hash = "423af082008d128d5ffb48d5e177fedab229d9764328c6ac10749586b3554875"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
+hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/extendedcrafting.json"
+hash = "f6ac91d60bb68bde76c9093c729179169e7624f700e0968996975df39a24bb00"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/extradisks.json"
+hash = "a4c095e5c36c4115789f144159be4c7faf172d9019f7e8d80ae07f351de091c8"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/extrastorage.json"
+hash = "c40c34d027315fe028c6fed0ecdd6943949c5234acbd5c6c5559484b68a68cfd"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/fantasyfurniture.json"
+hash = "54d2ca7a8303b70b19f8c9d8b7c4eae0bec35d0fd794223ae5f34626423c03c4"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/farmersdelight.json"
+hash = "418a568b0791fc9dce33bb9a123dfdd95c5fd3b68d31f64691bb9de2d632c2e9"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/farmingforblockheads.json"
+hash = "fc7ea90e0527985de64592d54bbf5bd22263971ff50bb0336af86f7d75741aa1"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ftbic.json"
+hash = "078ebd67cf10fc85ec3c63a4616b10d73c2fdff38b542fb86850e4990e8641fd"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/hexerei.json"
+hash = "0ff36ea772fb2d874d1d19ab4d6e03c3ab77dae4e23e34572d7269ecf375e42e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/hostilenetworks.json"
+hash = "596233e5aed74741a9c23fafb9c05c470908358075604e5c00c3da2ad053b918"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/iammusicplayer.json"
+hash = "c58a4198582e7a4a650061f666cc2de186777e3a2281de01d61563d5bcfa48a8"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/immersiveengineering.json"
+hash = "da5bc82e274e0cebf13dd7e8797a7632c28342ba9ea2c4871a28a2d9ee03bd52"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/indreb.json"
+hash = "b528588a5516eccfbc9f9311c0eaf020b03e03919c03a7a960f82f8eb8e435c7"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/integrateddynamics.json"
+hash = "4b3d51e9165fc0c62b9edddd66255cc302d29725f99740e2f71577d5a71916c8"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/integratednbt.json"
+hash = "a6d41799f19249ee6cb46406533a29c154fb58115f10d7e6d9192bd116e91b9e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/inventorio.json"
+hash = "49dad6447b9446b8235f3d80c8c6eec23acd367360fc853648be78860a89c31a"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ironchest.json"
+hash = "8f75773f04b8e12c4e7c6bfa3dbb742cf224526484b1e0cb2a1e57a56adbe49d"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/ironfurnaces.json"
+hash = "e2319f5694e5ea73b6c97a1f2941e34455ab580fb08dfcff44d1c50b2c16e461"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/itemcollectors.json"
+hash = "763dded31543f9ac69a26fb20d7f6f008baf4f4ca073c4c5b6996bdad34afd99"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/lazierae2.json"
+hash = "e877f979daf955110569f86f71cf7cff02ed278a55e580beeab15bc15e8a16ef"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/manga-and-artifice.json"
+hash = "4c391ca0cf97a43f1b0f3ea4f722dba48c39b6a65524a542e652e11ac85c2fad"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/manyideas_core.json"
+hash = "b4a00ad26fe6b99b6256914fc1dd583bc2db2140897e159d8b6b0e3e349e855f"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/mekanism.json"
+hash = "02eb75657ef5e1925560f367cd570b865f78c861030401b9a33cd5013bcb3695"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/mekanismgenerators.json"
+hash = "e736ec66a1da63bd9a91f919f21321f6b07f5262862fdef515e605d0cda5a721"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/mininggadgets.json"
+hash = "d3423ff25f09f2de928ffddbd41f22697e835b3dbe2b90f6c9d3d534e5f93ab1"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/misticalagricultur.json"
+hash = "8938d6b230762ecc39c8eb9a20420d4ccd93ed9994d045168ff68d514e62c755"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/modularrouters.json"
+hash = "98bbde07db910e3b23d84373d1044d0e824b2f58d2a14ca4a1010711699ba3ad"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/mysticaladaptations.json"
+hash = "e287f1d7c39dced8e9b29f0a014f2956893b04640c232ab4b33ff3a9a094b097"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/mysticalagriculture.json"
+hash = "21559d77f922b4d1c96854d62cfa08db95f0aff9091d4175616642fe990bd656"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/nekoration.json"
+hash = "be043d2b534ae991c9c39b0e74e35f651ed2e432570e3643a8947f0f64843018"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/occultism.json"
+hash = "9b53302ba95751c6df0a71eaef48f440166a57350f450ad40881213297bdec17"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/packagedauto.json"
+hash = "d23e94a0789d1a44641dde745d3c2ad445c00fdb849e34c5916e7ea68d62c7e7"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/packagedexcrafting.json"
+hash = "250ceb4aa5b7bc523c7db2b2f8a81c182e25bc9eac3e4251a45e85ad5d071487"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/plaingrinder.json"
+hash = "894048130370b24db557b2586b3cbc18042b74d27a2586b673863cf54de79cad"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/platforms.json"
+hash = "e595a72617e020868cb1ed5f0893c773d808810d08af3a0eac2bc551e0ed43f1"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
+hash = "f6dcb73eaf44ae9779840e5dd7f20acba800b45b12b9b123ffbb5a33b10ccb4f"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/pneumaticcraft.json"
+hash = "258056dd03e2b2aba6222d3568aa9081958dd271175cf7f747b31e919497e35c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/prettypipes.json"
+hash = "2d071ce584f57bc4084af8f0d6eb9e191516c3e9d082c4295c1b3c494dc2c795"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/productivebees.json"
+hash = "f40095c9e625833da5bac597d27c5c1122499fab1ffb1c27a2210fadf9dd7e74"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/psi.json"
+hash = "1d5e87d972a012e7d6e62ca63850480613eb8ed1cf31199437eb25067d5a7c7c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/pylons.json"
+hash = "b7058ee28aa83d73e8ccaedb167d49cdfdbc235e955d635aa8be3177de113294"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/quark.json"
+hash = "e92675e89f5031ad52bc7b83d721eabe4633654c816978336bb4519cecb26d9e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/refined-cooking.json"
+hash = "0a8f7f43f6fcab00d557b41b97d58f851566d339d97270c24b200b50803d37bf"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/refinedmods.json"
+hash = "67c9899bac18ff23761ec7536f7d62166280644a49850d46cc904a4302c09a8b"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/refinedstorage.json"
+hash = "8bb501e4793c689346effdb1de92fab43d15bc5c7420c74fe2d803fe94f48462"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/resourcefulbees.json"
+hash = "c6e28ff3d7753a4ca770a2b10edfdb3992dbe7e615a166a614b9f52d19295ae6"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/rftoolsbase.json"
+hash = "dec796c272b8cc76be8c5468bea3601503fbbc2130744ff824dc47a8666928bc"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/rftoolsbuilder.json"
+hash = "7b04a729a9f26a33b7ed01c7f09d2e6de475a693f110258c63a8565291393a5b"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/rftoolsdim.json"
+hash = "fb4b801f63a8e4e82fb88e6c1a08c8520de7e976baf15bb24f714f8c16ba9444"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/rsrequestify.json"
+hash = "635626d37099f172cc155d251d04caa3f63307c32e0c6f5044734da3951d53c2"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/scanable.json"
+hash = "f21a8899d39ea0cba7c4a18425cbaba25710f5d08a2eb46b7a038b833714ddd9"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sfm.json"
+hash = "0e0366616b5cdfd47e4394946e89702dc7fcddebfc3f2ea1056394da9a9ff57d"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/shrink.json"
+hash = "e8eb804a5619dbd536b33cf681a6f68c2d06cf02cef3c7f291ec3a61bf23ecef"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/silentgear.json"
+hash = "22d8f1e8f56b23e2daf0bd3e878a8c7dd10af85652ebc65be622f262dd7c5a1e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/simplecorelib.json"
+hash = "19dd2b9175c5d3a3d6453a7ac31412b2ae0af1258d8c9b1a45cbb1c287181cde"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/simpleplanes.json"
+hash = "5655e5c950b8b849ae5cf6de755e1cbaa623ea99bd1eaf514f7037f272cc51ac"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sophisticatedbackpacks.json"
+hash = "95faa08e1178fb474bccd8a74b72fed2748bb325b8aac5f4bc72750a5c9b744e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/sophisticatedstorage.json"
+hash = "0246293c514688b769912b9fc237f5afb04241871841c16563d230c1c9f8763c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/storagecabinet.json"
+hash = "c9de499d5eafd7850d7ab122cda204c96b4e711d940c794dfe2be3ef1099a015"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/storagenetwork.json"
+hash = "3e6fda7317051000b787823dbb097ce3c615fc347e9751c8695d78452d080efc"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/supplementaries.json"
+hash = "3358e35e3a7d5a1109595afde620d38f54a56e1d563a91a8c730f511e405f2b5"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/supplimenteries.json"
+hash = "938264d27daa431ee2f7d1d36e42a89d4ca06cc08a8cbd1602a066a92d0cb0db"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/tconstruct.json"
+hash = "e2a1b9fec43b51c5c8683c4260f5d772143155270f30cf4afd23b0b35f16e3a7"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/tfc.json"
+hash = "6c8a54bb3b83259422daacdc8ee794832590273ca952d55fd3351821183c4e87"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/the_bumblezone.json"
+hash = "e29ddce97bae7a933fff7d505caf116d541e2f9c500c34886a1759824878d845"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/thermal.json"
+hash = "52137f905e15b7524999f2a26cc4a70cd5d20b0143aa9ef71fdd707b36f71410"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/tinyredstone.json"
+hash = "086b38789615c1f596b6ca8f85ba7ba57a2fe739291e5ad9b0198cbca741ce8c"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/tmechworks.json"
+hash = "69b09b69e0d1c21b8094882d37094994f12c24d811b86fc2256b39c11662fd80"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/toolbelt.json"
+hash = "e38f7fc3df0bb028f06252ac55ef3495d2832c20cc53759b6e70529f9a5e73bd"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/trapcraft.json"
+hash = "4bbaa81da609801e5ef83077edcaf37bd7a80ec3217d7e39f291aa83e19dd644"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/travel_anchors.json"
+hash = "aabeece1873ce9f8f8ce802f121dcc28fd7a5179c74b4320f06def59f0f2fc5e"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/travelanchors.json"
+hash = "a0ef4c35b9e709e878202c74996fb68cd2dd858058b86950eff3a36485a7d425"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/usefullbackpacks.json"
+hash = "0873fb74e98f73bed2324a9665f7968036662f0e5b401a88815a9d43cedcc2cc"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/utilitix.json"
+hash = "8d5e643291816dd575d31e57bedf1c5f8de27e68753f15e037cb1c859b898c52"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/voluminousenergy.json"
+hash = "a3a1465cbe131daa9604dae2c4b9bba77379c2dc260967e25464f66270847b80"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/waystones.json"
+hash = "f306a5b0bb73a6fdb6348106195799834427ff8a72b49b868156d627ca6e2f13"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/woot.json"
+hash = "483ed35cf0046b1cb75b3f04225b5872c0b5cbce741cec685f65e344b49fe3a5"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/workshop_for_handsome_adventurer.json"
+hash = "6a5907a33efeba3478c966478191a94ea708b4852ee5da82d901d5cb8c202464"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/wormhole.json"
+hash = "d2792273cb961321e30932ec60da2c9b916bb4ddc5f02415d797043b459ae5e9"
+
+[[files]]
+file = "config/inventoryprofilesnext/integrationHints/zycraft.json"
+hash = "d2bae36bba10276b59fcc67f36689c07c53b3efb14ef5c3a812f79058c49ad55"
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "ae52e329cf09f854700e7e7118ee5c092f537f3a7f2073c7fdd0c7903f8d0ca3"
+
+[[files]]
+file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
+hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
+
+[[files]]
 file = "config/invtweaks-client.toml"
 hash = "75f26dd03e4a7d1784fd12f6cab9fa98bbe81ee418a949470b67515671887ee0"
 
@@ -642,7 +1294,11 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "4008ba2560387dedafc874498de9cd5b5acd1a2d741f5f4b600a4e29715afbb2"
+hash = "e7ae6c9531c4ac2e7f3a19d61800e965f3ae863f4f0051bd6301144381b76084"
+
+[[files]]
+file = "config/item_obliterator.json5"
+hash = "658a93af819f42dbad2bfdaa8bfd884be4955850062f2ca8dc565dd8d853d2e7"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -722,7 +1378,7 @@ hash = "6408815aef62cb11c8a1d614b4a3302bfb4afff37201cd499e75f824be0304c3"
 
 [[files]]
 file = "config/legendarysurvivaloverhaul-common.toml"
-hash = "c5acb401c31bfba9924828748f71fd0eb52b14867e6d3c9833b3f80666644c0f"
+hash = "96fb4b88ecfb6c01f591661aa847e63fff7dfead3892c47a17ce1ef68f0f5462"
 
 [[files]]
 file = "config/lithium.properties"
@@ -749,8 +1405,12 @@ file = "config/moreculling.toml"
 hash = "c32df09459589729db670caaf8f0c902fb9eb89d4aabb97fab549886583302df"
 
 [[files]]
-file = "config/moreoverlays.toml"
+file = "config/moreoverlays-1.toml.bak"
 hash = "d9d9f8e8ef379ac3617cc9bbd3be08f8d9d0a7cc2db6c054a5d5b46fb0bc6802"
+
+[[files]]
+file = "config/moreoverlays.toml"
+hash = "f1fb02c8263f5282c7c08792e7d95355dc506f210de10f6cc1658ebb6ecf7a42"
 
 [[files]]
 file = "config/mysticalagradditions-common.toml"
@@ -787,6 +1447,10 @@ hash = "52155f5707537443156b47499d98b96dcdbf48ad0ed4ce8cfdf53cef7ffb8a9c"
 [[files]]
 file = "config/naturescompass-common.toml"
 hash = "32701692ec2ede22f3aef544cf75db3b611ce15c52188b74d886ce1c459be58e"
+
+[[files]]
+file = "config/necronomicon.json5"
+hash = "f97fc5ae7dd7d312e86ecddf2e4491fee3e3a16b7a26cbb3aa078fdd3255c4df"
 
 [[files]]
 file = "config/neoforge-client.toml"
@@ -901,12 +1565,16 @@ file = "config/sodium-extra.properties"
 hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
 
 [[files]]
+file = "config/sodium-fingerprint.json"
+hash = "0757cb43a02c2d188c8dc564e02438f2b3b6b1a48ffdc407f8f39f44cd3e718d"
+
+[[files]]
 file = "config/sodium-mixins.properties"
 hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "fd042d95421cb5b4da2b7aeb4d6c4e0e50241db8e63da95552510ea4cbbd3229"
+hash = "78a571f4bc400aafdc9494d843ca7c5b72c8f5225cc1a4cbfc90a26fc51994f7"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -993,16 +1661,28 @@ file = "config/transition.json"
 hash = "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767"
 
 [[files]]
-file = "config/travelersbackpack-client.toml"
+file = "config/travelersbackpack-client-1.toml.bak"
 hash = "8a4a3fee6bf3fab760ee40f656115e1ab01d8c0bf9a61d2a0909b1801248359a"
+
+[[files]]
+file = "config/travelersbackpack-client.toml"
+hash = "ca735b5e2a2d938792dd8f9435424bb2d3af3acf58df13a8564441d54d6917c2"
 
 [[files]]
 file = "config/travelersbackpack-common.toml"
 hash = "75377139f3c529cbab1fa217f9b1b2ca00a0c2c953f23ba496b0ce0a64b531f5"
 
 [[files]]
-file = "config/travelersbackpack-server.toml"
+file = "config/travelersbackpack-server-1.toml.bak"
 hash = "072109dd34e27418e2ba4c9bf4c79c56b75adf68053b158d42304dc127379d92"
+
+[[files]]
+file = "config/travelersbackpack-server.toml"
+hash = "b85bc0a4a0e9d26aca8e3f5b8d8b17674f4e5f8fe156617961624cd5b6cd2cbf"
+
+[[files]]
+file = "config/travelerstitles-neoforge-1_21.toml"
+hash = "d6974a5b29dcd166bbeca5c6c3e885f3314c30d12eccb4f8a1841d92a5d1b630"
 
 [[files]]
 file = "config/trender.json"
@@ -1155,6 +1835,10 @@ hash = "d438aea41ca41e93697e059f523686935c0add482f6abe96b532bbf10c6ed80a"
 [[files]]
 file = "config/xaerohud.txt"
 hash = "cece60604b8de5e978141c981c1ed85227c8f30697a513869012b06dd15fcf02"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/yungsmenutweaks-neoforge-1_21.toml"
@@ -1386,6 +2070,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "a98dd7f86518a0de7bb3451bee7c8e1d7cec1b7fe00d97504ce7afd7e715ae2d"
+metafile = true
+
+[[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "820727a4852072ccad40e99d05fdab98d7d5b214ef2fa1b01fc102408b0d322c"
 metafile = true
 
 [[files]]
@@ -1851,6 +2540,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "e11060ffe4bfc83dd5094a05cfd1248728373c592226d9fc30877563232e0c22"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "bbf8f2ba1e4bba18c1f61b2f003063052f56dd9951ceae3e227b6cbf9affd29f"
 metafile = true
 
 [[files]]

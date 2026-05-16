@@ -192,7 +192,7 @@
 		# It means that for a value of -2, the body temperature of the player is reduced by 2.
 		# Default: -2.0
 		# Range: -1000.0 ~ 1000.0
-		"Rain Temperature Modifier" = -2.0
+		"Rain Temperature Modifier" = -2.2
 		# How much of an effect snow has on temperature.
 		# It means that for a value of -6, the body temperature of the player is reduced by 6.
 		# Default: -6.0
@@ -326,7 +326,7 @@
 			# If disabled, dry and wet seasons are applied for hot biomes.
 			"Tropical Seasons Enabled" = false
 			# If season cards are enabled, season cards will appear at every season changes.
-			"Season Cards Enabled" = false
+			"Season Cards Enabled" = true
 			# If default season is enabled, when serene season defines no season effect in a biome, the normal season temperature will be applied.
 			# If disabled, when serene season defines no season effects, no season temperature will be applied.
 			"Default Season Enabled" = true
