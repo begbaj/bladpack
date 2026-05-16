@@ -1,0 +1,10 @@
+{
+    "top.theillusivec4.curios.client.gui.CuriosScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 375,
+                "top": 134
+            }
+        }
+    }
+}

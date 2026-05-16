@@ -1,0 +1,128 @@
+
+# legendarysurvivaloverhaul
+	legendarysurvivaloverhaul:sewing_table_container
+	legendarysurvivaloverhaul:heater_container
+	legendarysurvivaloverhaul:cooler_container
+
+# aether
+	aether:accessories
+
+# ae2
+	ae2:spatialanchor
+	ae2:craftconfirm
+	ae2:portable_item_cell
+	ae2:priority
+	ae2:spatialioport
+	ae2:ioport
+	ae2:wirelesscraftingterm
+	ae2:formationplane
+	ae2:networkstatus
+	ae2:craftamount
+	ae2:craftingterm
+	ae2:skychest
+	ae2:craftingstatus
+	ae2:qnb
+	ae2:cellworkbench
+	ae2:patternaccessterminal
+	ae2:quartzknife
+	ae2:networktool
+	ae2:me_chest
+	ae2:craftingcpu
+	ae2:controller_networkstatus
+	ae2:patternterm
+	ae2:basic_cell_chest
+	ae2:item_terminal
+	ae2:portable_fluid_cell
+	ae2:vibrationchamber
+	ae2:storage_level_emitter
+	ae2:storagebus
+	ae2:wirelessterm
+	ae2:set_stock_amount
+
+# ae2wtlib
+	ae2wtlib:magnet
+	ae2wtlib:trash
+	ae2wtlib:wireless_crafting_terminal
+
+# mekanism
+	mekanism:energy_cube
+	mekanism:personal_storage_block
+	mekanism:matrix_stats
+	mekanism:chemical_tank
+	mekanism:thermoelectric_boiler
+	mekanism:crafting_robit
+	mekanism:qio_frequency_select_item
+	mekanism:fluid_tank
+	mekanism:induction_matrix
+	mekanism:module_tweaker
+	mekanism:digital_miner_config
+	mekanism:smelting_robit
+	mekanism:repair_robit
+	mekanism:personal_storage_item
+	mekanism:qio_frequency_select_tile
+	mekanism:inventory_robit
+	mekanism:factory
+	mekanism:main_robit
+	mekanism:boiler_stats
+
+# travelersbackpack
+	travelersbackpack:backpack_settings
+	travelersbackpack:backpack_block
+	travelersbackpack:backpack_item
+
+# mekanismgenerators
+	mekanismgenerators:industrial_turbine
+	mekanismgenerators:fission_reactor
+	mekanismgenerators:fusion_reactor_stats
+	mekanismgenerators:fusion_reactor_fuel
+	mekanismgenerators:fusion_reactor_heat
+	mekanismgenerators:fission_reactor_stats
+	mekanismgenerators:turbine_stats
+
+# waystones
+	waystones:sharestone_selection
+	waystones:warp_stone_selection
+	waystones:inventory_selection
+	waystones:warp_scroll_selection
+	waystones:admin_selection
+	waystones:waystone_selection
+	waystones:waystone_modifiers
+	waystones:portstone_selection
+
+# toms_trading_network
+	toms_trading_network:vending_machine.menu_trading
+	toms_trading_network:vending_machine.menu_config
+
+# titanium
+	titanium:addon_container
+
+# kubejs
+	kubejs:menu
+
+# runes
+	runes:crafting
+
+# appmek
+	appmek:portable_chemical_cell
+
+# accessories
+	accessories:experimental_menu
+	accessories:original_menu
+
+# creativecore
+	creativecore:container
+
+# solonion
+	solonion:food_container
+
+# curios
+	curios:curios_container
+
+# mysticalagriculture
+	mysticalagriculture:reprocessor
+
+# spell_engine
+	spell_engine:spell_choice
+
+# visualworkbench
+	visualworkbench:crafting

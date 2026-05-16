@@ -1,0 +1,20 @@
+{
+    "Features": {
+        "enable_profiles": {
+            "value": false
+        }
+    },
+    "ModSettings": {
+        "debug": true,
+        "for_modpack_devs": true,
+        "first_run": false,
+        "enable_profiles": {
+            "value": false
+        }
+    },
+    "EditProfiles": {
+        "enable_profiles": {
+            "value": false
+        }
+    }
+}

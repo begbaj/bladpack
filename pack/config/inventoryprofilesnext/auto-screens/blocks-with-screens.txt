@@ -1,0 +1,96 @@
+
+# mekanism
+	mekanism:pigment_extractor
+	mekanism:laser_tractor_beam
+	mekanism:solar_neutron_activator
+	mekanism:resistive_heater
+	mekanism:chemical_infuser
+	mekanism:combiner
+	mekanism:sps_casing
+	mekanism:modification_station
+	mekanism:qio_importer
+	mekanism:digital_miner
+	mekanism:chemical_injection_chamber
+	mekanism:qio_dashboard
+	mekanism:antiprotonic_nucleosynthesizer
+	mekanism:laser_amplifier
+	mekanism:logistical_sorter
+	mekanism:purification_chamber
+	mekanism:dimensional_stabilizer
+	mekanism:formulaic_assemblicator
+	mekanism:teleporter
+	mekanism:painting_machine
+	mekanism:pigment_mixer
+	mekanism:qio_exporter
+	mekanism:chemical_crystallizer
+	mekanism:crusher
+	mekanism:electrolytic_separator
+	mekanism:quantum_entangloporter
+	mekanism:chemical_washer
+	mekanism:pressurized_reaction_chamber
+	mekanism:seismic_vibrator
+	mekanism:electric_pump
+	mekanism:qio_redstone_adapter
+	mekanism:isotopic_centrifuge
+	mekanism:oredictionificator
+	mekanism:qio_drive_array
+	mekanism:metallurgic_infuser
+	mekanism:osmium_compressor
+	mekanism:fluidic_plenisher
+	mekanism:precision_sawmill
+	mekanism:dynamic_tank
+	mekanism:security_desk
+	mekanism:thermal_evaporation_controller
+	mekanism:chemical_dissolution_chamber
+	mekanism:fuelwood_heater
+	mekanism:rotary_condensentrator
+	mekanism:chemical_oxidizer
+	mekanism:enrichment_chamber
+	mekanism:nutritional_liquifier
+	mekanism:energized_smelter
+
+# mysticalagriculture
+	mysticalagriculture:harvester
+	mysticalagriculture:soulium_spawner
+	mysticalagriculture:tinkering_table
+	mysticalagriculture:enchanter
+	mysticalagriculture:furnace
+	mysticalagriculture:soul_extractor
+
+# mekanismgenerators
+	mekanismgenerators:advanced_solar_generator
+	mekanismgenerators:gas_burning_generator
+	mekanismgenerators:fusion_reactor_controller
+	mekanismgenerators:wind_generator
+	mekanismgenerators:fusion_reactor_logic_adapter
+	mekanismgenerators:solar_generator
+	mekanismgenerators:heat_generator
+	mekanismgenerators:fission_reactor_logic_adapter
+	mekanismgenerators:bio_generator
+
+# aether
+	aether:incubator
+	aether:altar
+	aether:freezer
+
+# spell_engine
+	spell_engine:spell_binding
+
+# ae2
+	ae2:interface
+	ae2:wireless_access_point
+	ae2:inscriber
+	ae2:molecular_assembler
+	ae2:condenser
+	ae2:drive
+	ae2:pattern_provider
+
+# waystones
+	waystones:waystone
+
+# merequester
+	merequester:requester
+
+# industrialforegoing
+	industrialforegoing:transporter
+	industrialforegoing:conveyor

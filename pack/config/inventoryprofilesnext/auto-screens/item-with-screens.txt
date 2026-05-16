@@ -1,0 +1,25 @@
+
+# ae2
+	ae2:export_bus
+	ae2:import_bus
+	ae2:energy_level_emitter
+
+# mekanism
+	mekanism:dictionary
+	mekanism:portable_qio_dashboard
+	mekanism:portable_teleporter
+	mekanism:seismic_reader
+
+# ae2wtlib
+	ae2wtlib:wireless_pattern_access_terminal
+	ae2wtlib:wireless_pattern_encoding_terminal
+
+# aether
+	aether:book_of_lore
+
+# merequester
+	merequester:requester_terminal
+	merequester:wireless_requester_terminal
+
+# utility_belt
+	utility_belt:utility_belt

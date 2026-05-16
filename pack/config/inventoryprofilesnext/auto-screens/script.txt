@@ -1,0 +1,146 @@
+/tp Dyrem ~ ~ ~ 180 0
+/fill 34 70 24 135 70 20 minecraft:glass
+/fill 33 70 24 135 72 24 minecraft:black_stained_glass
+/fill 33 70 24 33 72 19 minecraft:black_stained_glass
+/fill 136 70 24 136 72 19 minecraft:black_stained_glass
+/fill 33 70 20 33 72 17 minecraft:black_stained_glass
+/fill 34 70 20 36 70 17 minecraft:glass
+/fill 37 70 20 133 70 17 minecraft:smooth_stone
+/fill 133 70 20 135 70 17 minecraft:glass
+/fill 136 70 20 136 72 17 minecraft:black_stained_glass
+/setblock 35 71 19 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"mekanism\"}"} destroy
+/fill 33 70 19 33 72 16 minecraft:black_stained_glass
+/fill 34 70 19 36 70 16 minecraft:glass
+/fill 37 70 19 133 70 16 minecraft:smooth_stone
+/fill 133 70 19 135 70 16 minecraft:glass
+/fill 136 70 19 136 72 16 minecraft:black_stained_glass
+/setblock 37 71 19 mekanism:pigment_extractor destroy
+/setblock 39 71 19 mekanism:laser_tractor_beam destroy
+/setblock 41 71 19 mekanism:solar_neutron_activator destroy
+/setblock 43 71 19 mekanism:resistive_heater destroy
+/setblock 45 71 19 mekanism:chemical_infuser destroy
+/setblock 47 71 19 mekanism:combiner destroy
+/setblock 49 71 19 mekanism:sps_casing destroy
+/setblock 51 71 19 mekanism:modification_station destroy
+/setblock 53 71 19 mekanism:qio_importer destroy
+/setblock 55 71 19 mekanism:digital_miner destroy
+/setblock 57 71 19 mekanism:chemical_injection_chamber destroy
+/setblock 59 71 19 mekanism:qio_dashboard destroy
+/setblock 61 71 19 mekanism:antiprotonic_nucleosynthesizer destroy
+/setblock 63 71 19 mekanism:laser_amplifier destroy
+/setblock 65 71 19 mekanism:logistical_sorter destroy
+/setblock 67 71 19 mekanism:purification_chamber destroy
+/setblock 69 71 19 mekanism:dimensional_stabilizer destroy
+/setblock 71 71 19 mekanism:formulaic_assemblicator destroy
+/setblock 73 71 19 mekanism:teleporter destroy
+/setblock 75 71 19 mekanism:painting_machine destroy
+/setblock 77 71 19 mekanism:pigment_mixer destroy
+/setblock 79 71 19 mekanism:qio_exporter destroy
+/setblock 81 71 19 mekanism:chemical_crystallizer destroy
+/setblock 83 71 19 mekanism:crusher destroy
+/setblock 85 71 19 mekanism:electrolytic_separator destroy
+/setblock 87 71 19 mekanism:quantum_entangloporter destroy
+/setblock 89 71 19 mekanism:chemical_washer destroy
+/setblock 91 71 19 mekanism:pressurized_reaction_chamber destroy
+/setblock 93 71 19 mekanism:seismic_vibrator destroy
+/setblock 95 71 19 mekanism:electric_pump destroy
+/setblock 97 71 19 mekanism:qio_redstone_adapter destroy
+/setblock 99 71 19 mekanism:isotopic_centrifuge destroy
+/setblock 101 71 19 mekanism:oredictionificator destroy
+/setblock 103 71 19 mekanism:qio_drive_array destroy
+/setblock 105 71 19 mekanism:metallurgic_infuser destroy
+/setblock 107 71 19 mekanism:osmium_compressor destroy
+/setblock 109 71 19 mekanism:fluidic_plenisher destroy
+/setblock 111 71 19 mekanism:precision_sawmill destroy
+/setblock 113 71 19 mekanism:dynamic_tank destroy
+/setblock 115 71 19 mekanism:security_desk destroy
+/setblock 117 71 19 mekanism:thermal_evaporation_controller destroy
+/setblock 119 71 19 mekanism:chemical_dissolution_chamber destroy
+/setblock 121 71 19 mekanism:fuelwood_heater destroy
+/setblock 123 71 19 mekanism:rotary_condensentrator destroy
+/setblock 125 71 19 mekanism:chemical_oxidizer destroy
+/setblock 127 71 19 mekanism:enrichment_chamber destroy
+/setblock 129 71 19 mekanism:nutritional_liquifier destroy
+/setblock 131 71 19 mekanism:energized_smelter destroy
+/setblock 35 71 15 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"mysticalagriculture\"}"} destroy
+/fill 33 70 15 33 72 12 minecraft:black_stained_glass
+/fill 34 70 15 36 70 12 minecraft:glass
+/fill 37 70 15 133 70 12 minecraft:smooth_stone
+/fill 133 70 15 135 70 12 minecraft:glass
+/fill 136 70 15 136 72 12 minecraft:black_stained_glass
+/setblock 37 71 15 mysticalagriculture:harvester destroy
+/setblock 39 71 15 mysticalagriculture:soulium_spawner destroy
+/setblock 41 71 15 mysticalagriculture:tinkering_table destroy
+/setblock 43 71 15 mysticalagriculture:enchanter destroy
+/setblock 45 71 15 mysticalagriculture:furnace destroy
+/setblock 47 71 15 mysticalagriculture:soul_extractor destroy
+/setblock 35 71 11 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"mekanismgenerators\"}"} destroy
+/fill 33 70 11 33 72 8 minecraft:black_stained_glass
+/fill 34 70 11 36 70 8 minecraft:glass
+/fill 37 70 11 133 70 8 minecraft:smooth_stone
+/fill 133 70 11 135 70 8 minecraft:glass
+/fill 136 70 11 136 72 8 minecraft:black_stained_glass
+/setblock 37 71 11 mekanismgenerators:advanced_solar_generator destroy
+/setblock 39 71 11 mekanismgenerators:gas_burning_generator destroy
+/setblock 41 71 11 mekanismgenerators:fusion_reactor_controller destroy
+/setblock 43 71 11 mekanismgenerators:wind_generator destroy
+/setblock 45 71 11 mekanismgenerators:fusion_reactor_logic_adapter destroy
+/setblock 47 71 11 mekanismgenerators:solar_generator destroy
+/setblock 49 71 11 mekanismgenerators:heat_generator destroy
+/setblock 51 71 11 mekanismgenerators:fission_reactor_logic_adapter destroy
+/setblock 53 71 11 mekanismgenerators:bio_generator destroy
+/setblock 35 71 7 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"aether\"}"} destroy
+/fill 33 70 7 33 72 4 minecraft:black_stained_glass
+/fill 34 70 7 36 70 4 minecraft:glass
+/fill 37 70 7 133 70 4 minecraft:smooth_stone
+/fill 133 70 7 135 70 4 minecraft:glass
+/fill 136 70 7 136 72 4 minecraft:black_stained_glass
+/setblock 37 71 7 aether:incubator destroy
+/setblock 39 71 7 aether:altar destroy
+/setblock 41 71 7 aether:freezer destroy
+/setblock 35 71 3 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"spell_engine\"}"} destroy
+/fill 33 70 3 33 72 0 minecraft:black_stained_glass
+/fill 34 70 3 36 70 0 minecraft:glass
+/fill 37 70 3 133 70 0 minecraft:smooth_stone
+/fill 133 70 3 135 70 0 minecraft:glass
+/fill 136 70 3 136 72 0 minecraft:black_stained_glass
+/setblock 37 71 3 spell_engine:spell_binding destroy
+/setblock 35 71 -1 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"ae2\"}"} destroy
+/fill 33 70 -1 33 72 -4 minecraft:black_stained_glass
+/fill 34 70 -1 36 70 -4 minecraft:glass
+/fill 37 70 -1 133 70 -4 minecraft:smooth_stone
+/fill 133 70 -1 135 70 -4 minecraft:glass
+/fill 136 70 -1 136 72 -4 minecraft:black_stained_glass
+/setblock 37 71 -1 ae2:interface destroy
+/setblock 39 71 -1 ae2:wireless_access_point destroy
+/setblock 41 71 -1 ae2:inscriber destroy
+/setblock 43 71 -1 ae2:molecular_assembler destroy
+/setblock 45 71 -1 ae2:condenser destroy
+/setblock 47 71 -1 ae2:drive destroy
+/setblock 49 71 -1 ae2:pattern_provider destroy
+/setblock 35 71 -5 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"waystones\"}"} destroy
+/fill 33 70 -5 33 72 -8 minecraft:black_stained_glass
+/fill 34 70 -5 36 70 -8 minecraft:glass
+/fill 37 70 -5 133 70 -8 minecraft:smooth_stone
+/fill 133 70 -5 135 70 -8 minecraft:glass
+/fill 136 70 -5 136 72 -8 minecraft:black_stained_glass
+/setblock 37 71 -5 waystones:waystone destroy
+/setblock 35 71 -9 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"merequester\"}"} destroy
+/fill 33 70 -9 33 72 -12 minecraft:black_stained_glass
+/fill 34 70 -9 36 70 -12 minecraft:glass
+/fill 37 70 -9 133 70 -12 minecraft:smooth_stone
+/fill 133 70 -9 135 70 -12 minecraft:glass
+/fill 136 70 -9 136 72 -12 minecraft:black_stained_glass
+/setblock 37 71 -9 merequester:requester destroy
+/setblock 35 71 -13 minecraft:oak_sign[rotation=12,waterlogged=false]{Text1:"{\"text\":\"industrialforegoing\"}"} destroy
+/fill 33 70 -13 33 72 -16 minecraft:black_stained_glass
+/fill 34 70 -13 36 70 -16 minecraft:glass
+/fill 37 70 -13 133 70 -16 minecraft:smooth_stone
+/fill 133 70 -13 135 70 -16 minecraft:glass
+/fill 136 70 -13 136 72 -16 minecraft:black_stained_glass
+/setblock 37 71 -13 industrialforegoing:transporter destroy
+/setblock 39 71 -13 industrialforegoing:conveyor destroy
+/fill 34 70 -20 135 70 -17 minecraft:glass
+/fill 33 70 -20 135 72 -20 minecraft:black_stained_glass
+/fill 33 70 -20 33 72 -17 minecraft:black_stained_glass
+/fill 136 70 -20 136 72 -17 minecraft:black_stained_glass
