@@ -16,7 +16,7 @@
 	#Spawn chances for pieces of Bronze gear. Note: These values are after the general mobArmorSpawnRate (or corresponding weapon rate) has been checked, and after an even split between material types has been done.
 	[mobGearSpawnRate.bronze]
 		#If enabled, zombies can spawn with Bronze weapons.
-		canSpawnWeapon = true
+		canSpawnWeapon = false
 		#The chance that mobs will spawn with Bronze swords rather than Bronze shovels. Requires canSpawnWeapon to be enabled.
 		# Default: 0.33
 		# Range: 0.0 ~ 1.0
@@ -57,7 +57,7 @@
 	#Spawn chances for pieces of Lapis Lazuli gear. Note: These values are after the general mobArmorSpawnRate (or corresponding weapon rate) has been checked, and after an even split between material types has been done.
 	[mobGearSpawnRate.lapis_lazuli]
 		#If enabled, zombies can spawn with Lapis Lazuli weapons.
-		canSpawnWeapon = true
+		canSpawnWeapon = false
 		#The chance that mobs will spawn with Lapis Lazuli swords rather than Lapis Lazuli shovels. Requires canSpawnWeapon to be enabled.
 		# Default: 0.33
 		# Range: 0.0 ~ 1.0
@@ -98,7 +98,7 @@
 	#Spawn chances for pieces of Osmium gear. Note: These values are after the general mobArmorSpawnRate (or corresponding weapon rate) has been checked, and after an even split between material types has been done.
 	[mobGearSpawnRate.osmium]
 		#If enabled, zombies can spawn with Osmium weapons.
-		canSpawnWeapon = true
+		canSpawnWeapon = false
 		#The chance that mobs will spawn with Osmium swords rather than Osmium shovels. Requires canSpawnWeapon to be enabled.
 		# Default: 0.33
 		# Range: 0.0 ~ 1.0
@@ -106,19 +106,19 @@
 		#The chance that mobs can spawn with Osmium helmets.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.0
-		helmetChance = 0.1
+		helmetChance = 0.01
 		#The chance that mobs can spawn with Osmium chestplates.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.0
-		chestplateChance = 0.1
+		chestplateChance = 0.01
 		#The chance that mobs can spawn with Osmium leggings.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.0
-		leggingsChance = 0.1
+		leggingsChance = 0.01
 		#The chance that mobs can spawn with Osmium boots.
 		# Default: 1.0
 		# Range: 0.0 ~ 1.0
-		bootsChance = 0.1
+		bootsChance = 0.01
 		#The chance that after each piece of Osmium armor a mob spawns with no more pieces will be added. Order of pieces tried is boots, leggings, chestplate, helmet.
 		# Default: 0.25
 		# Range: 0.0 ~ 1.0
@@ -139,7 +139,7 @@
 	#Spawn chances for pieces of Refined Glowstone gear. Note: These values are after the general mobArmorSpawnRate (or corresponding weapon rate) has been checked, and after an even split between material types has been done.
 	[mobGearSpawnRate.refined_glowstone]
 		#If enabled, zombies can spawn with Refined Glowstone weapons.
-		canSpawnWeapon = true
+		canSpawnWeapon = false
 		#The chance that mobs will spawn with Refined Glowstone swords rather than Refined Glowstone shovels. Requires canSpawnWeapon to be enabled.
 		# Default: 0.33
 		# Range: 0.0 ~ 1.0
@@ -180,7 +180,7 @@
 	#Spawn chances for pieces of Refined Obsidian gear. Note: These values are after the general mobArmorSpawnRate (or corresponding weapon rate) has been checked, and after an even split between material types has been done.
 	[mobGearSpawnRate.refined_obsidian]
 		#If enabled, zombies can spawn with Refined Obsidian weapons.
-		canSpawnWeapon = false
+		canSpawnWeapon = true
 		#The chance that mobs will spawn with Refined Obsidian swords rather than Refined Obsidian shovels. Requires canSpawnWeapon to be enabled.
 		# Default: 0.33
 		# Range: 0.0 ~ 1.0

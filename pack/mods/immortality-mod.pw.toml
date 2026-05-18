@@ -1,0 +1,13 @@
+name = "Immortality Mod"
+filename = "immortality_mod-1.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8fWQGfk4/versions/erTB7qOo/immortality_mod-1.4-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "1679cf3ddf9bb5c69770c154481cf09d84ec43d243ac72375e0aae0145013e80f9da2d9176dbabd0a6634ef70408b294424e40b16ab26dc934c800dbd2c7874a"
+
+[update]
+[update.modrinth]
+mod-id = "8fWQGfk4"
+version = "erTB7qOo"

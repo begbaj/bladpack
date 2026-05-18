@@ -1,12 +1,12 @@
 name = "Bladpack"
 author = "begbaj"
-version = "0.2.3"
+version = "0.2.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "ca42f789806e709e156b6436430b092157fd75db6f8c5abad14784f50c48c309"
+hash = "2c738267ae28462e7bf9b286b320fe60a6268d2551d2cfa10f144b2b99072d5c"
 
 [versions]
 minecraft = "1.21.1"
