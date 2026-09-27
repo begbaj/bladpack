@@ -1201,10 +1201,6 @@ file = "kubejs/startup_scripts/stages.js"
 hash = "f88ea4c6719f5a9a925b26f553060a6f4767132549e11e3efebb6b2fdb4fbbbb"
 
 [[files]]
-file = "local/kubejs/dev.json"
-hash = "86f199072e7e94823d6c7fc3930542bd716fd1590d5a61d1e4a3d8947cbe9701"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -1973,11 +1969,3 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
-
-[[files]]
-file = "scripts/blad-recipies.zs"
-hash = "44de284a0955f0ec936ffd7f986379648828630caa293c565366f72d1de944bf"
-
-[[files]]
-file = "server/compose.yml"
-hash = "beb5b62d9a5a2e9be51acbf7cd34fa7ac4b5efa5a68bab8af17343de3053d55b"
