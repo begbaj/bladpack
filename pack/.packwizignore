@@ -1,34 +1,23 @@
-kubejsbak/
 server/
-scripts/
 local/
 
 # Backup files
 *.bak
-
-# Nested ignore files are not honored by packwiz; keep them out of the pack
-.packwizignore
 .gitignore
 
-# Generated per-install by KubeJS (contains a random auth token)
+# Generated per-install by KubeJS
 kubejs/config/web_server.json
-
-# EMI per-player data (lookup/craft history, favorites)
 emi.json
 
-# No Chat Reports: encryptionKey is generated per install; shipping it gives every player the same key
+# No Chat Reports: encryptionKey is generated per install
 config/NoChatReports/NCR-Encryption.json
 
-# Inventory Profiles Next per-world / per-server data (folder names leak world names and server host:port)
-config/inventoryprofilesnext/bak/
-config/inventoryprofilesnext/aaaaaaaa/
+# Inventory Profiles Next
 config/inventoryprofilesnext/*&*/
 config/inventoryprofilesnext/villager-trading-config-v2.json
-
-# Inventory Profiles Next generated dumps
 config/inventoryprofilesnext/all-items.txt
 config/inventoryprofilesnext/ModIntegrationExport.json
 config/inventoryprofilesnext/auto-screens/
 
-# RPG Series runtime tag cache (rebuilt on launch; a stale copy can lag behind mod updates)
+# RPG Series runtime tag cache
 config/rpg_series/tag_cache.json
