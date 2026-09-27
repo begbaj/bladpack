@@ -26,6 +26,36 @@ ServerEvents.recipes(event => {
     ingredients
   ).id('kubejs:osmium_axe')
 
+  event.remove({ output: 'mekanismtools:osmium_sword', })
+  event.shaped('mekanismtools:osmium_sword',
+    [
+      ' O ',
+      ' D ',
+      ' S '
+    ],
+    ingredients
+  ).id('kubejs:osmium_sword')
+
+  event.remove({ output: 'mekanismtools:osmium_shovel', })
+  event.shaped('mekanismtools:osmium_shovel',
+    [
+      ' D ',
+      ' O ',
+      ' S '
+    ],
+    ingredients
+  ).id('kubejs:osmium_shovel')
+
+  event.remove({ output: 'mekanismtools:osmium_hoe', })
+  event.shaped('mekanismtools:osmium_hoe',
+    [
+      'DO ',
+      ' S ',
+      ' S '
+    ],
+    ingredients
+  ).id('kubejs:osmium_hoe')
+
   ingredients = {
     O: 'mekanism:ingot_osmium',
     D: 'minecraft:diamond',

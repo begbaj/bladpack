@@ -1190,7 +1190,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "b799903e809ca16afa9ef127b2e9940c48ed340838ccc2f9bf0a58dd7d57e7f8"
+hash = "98a43cb97351219fd3ea819242fd37949dedb23d0a750dea32a8df25b374ec01"
 
 [[files]]
 file = "kubejs/server_scripts/stages.js"
