@@ -2,3 +2,9 @@ kubejsbak/
 server/
 scripts/
 local/
+
+# Backup files
+*.bak
+
+# Generated per-install by KubeJS (contains a random auth token)
+kubejs/config/web_server.json
