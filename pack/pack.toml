@@ -1,16 +1,16 @@
 name = "Bladpack"
 author = "begbaj"
-version = "0.2.4"
+version = "0.2.4-1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2cdc852ae0c2ffde859569fb041e605030f21cf880f7cb2f62f0e6db4606e7c6"
+hash = "e7445f13e4a1b476202d65e07bf7c5528f56406c08ceceb39a3cbaabe6a99910"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.219"
+neoforge = "21.1.230"
 
 [options]
 acceptable-game-versions = ["1.21.1"]

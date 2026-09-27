@@ -362,7 +362,7 @@ hash = "5600eba198ccf110db24e436a4568f3e0355e44a2db5ff96e5fad703b0c712fa"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "f95f31b691eaee7cfb116c3d59c940592fbf563809c1ce055cd6af92413692f9"
+hash = "684502672e7a1bc254aab637941b6cccafc11c018eed10287c5f6ce3b87d41ec"
 
 [[files]]
 file = "config/carryon-client.toml"
@@ -490,7 +490,7 @@ hash = "a5ba22e63061c1fb67f0f895f17681351eaeccc225faef966c29ee630593275e"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "3ac9f2d35769bda59e267c55a99c3a307a9c10c400ce61bb67aba234525b54c8"
+hash = "251d301b92a743d7d1893324e918621f721c4381b37040b1e9e7b6b9c082f610"
 
 [[files]]
 file = "config/fallingtree.json"
@@ -630,7 +630,7 @@ hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
 
 [[files]]
 file = "config/iris.properties"
-hash = "1f8372ecab4c844263ed628e9d5577770cdd902aeb1968924b36003a3022b152"
+hash = "013f6cec42d3f2307eafed81d3c79895d7ed498e1c796b07376adca694489193"
 
 [[files]]
 file = "config/item_obliterator.json5"
@@ -906,7 +906,7 @@ hash = "8939df3a10627cf3b9a3cc0e2824337923e9a26d11e60f5a1f7c0cfbd171a574"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "78a571f4bc400aafdc9494d843ca7c5b72c8f5225cc1a4cbfc90a26fc51994f7"
+hash = "78ad1bfdbc77347e45ef4188b68ac9dfbea55fd67b18dd9190decb1ebc2dd67e"
 
 [[files]]
 file = "config/sodiumdynamiclights-client.toml"
@@ -1190,7 +1190,7 @@ hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
 
 [[files]]
 file = "kubejs/server_scripts/recipes.js"
-hash = "98a43cb97351219fd3ea819242fd37949dedb23d0a750dea32a8df25b374ec01"
+hash = "7e319b20a3e2cfcedb9ced5afb59049cc3f7de8ed9cba0183dc3970b647be7c3"
 
 [[files]]
 file = "kubejs/server_scripts/stages.js"
@@ -1199,10 +1199,6 @@ hash = "ba096412fe572959b124dc8309641abe94cb140a79d6e65d6b59dc6c34c43780"
 [[files]]
 file = "kubejs/startup_scripts/stages.js"
 hash = "f88ea4c6719f5a9a925b26f553060a6f4767132549e11e3efebb6b2fdb4fbbbb"
-
-[[files]]
-file = "local/kubejs/dev.json"
-hash = "86f199072e7e94823d6c7fc3930542bd716fd1590d5a61d1e4a3d8947cbe9701"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1500,18 +1496,8 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
-file = "mods/immortality-mod.pw.toml"
-hash = "e1e69aef54e73b7b3d1ed7142221cd176215b1f9920d357db6afbe7f357efd3d"
-metafile = true
-
-[[files]]
 file = "mods/incendium.pw.toml"
 hash = "ef1faa467f5dfd37c40871575934dab645f15a70568e8268a9e477234bdd1c58"
-metafile = true
-
-[[files]]
-file = "mods/industrial-foregoing.pw.toml"
-hash = "ed9c02dd76c8725c225906800f09a184a6d9089fcdd5a889f411d0aeff49a65f"
 metafile = true
 
 [[files]]
@@ -1983,11 +1969,3 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
-
-[[files]]
-file = "scripts/blad-recipies.zs"
-hash = "44de284a0955f0ec936ffd7f986379648828630caa293c565366f72d1de944bf"
-
-[[files]]
-file = "server/compose.yml"
-hash = "beb5b62d9a5a2e9be51acbf7cd34fa7ac4b5efa5a68bab8af17343de3053d55b"
