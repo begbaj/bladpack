@@ -9,4 +9,4 @@ cd pack
 version=$(grep -m1 '^version' pack.toml | cut -d'"' -f2)
 
 packwiz refresh
-packwiz mr export -o "../build/Bladpack-${version}.mrpack"
+packwiz mr export -d "../build/" -f "Bladpack-${version}.mrpack"

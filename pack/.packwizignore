@@ -8,3 +8,23 @@ local/
 
 # Generated per-install by KubeJS (contains a random auth token)
 kubejs/config/web_server.json
+
+# EMI per-player data (lookup/craft history, favorites)
+emi.json
+
+# No Chat Reports: encryptionKey is generated per install; shipping it gives every player the same key
+config/NoChatReports/NCR-Encryption.json
+
+# Inventory Profiles Next per-world / per-server data (folder names leak world names and server host:port)
+config/inventoryprofilesnext/bak/
+config/inventoryprofilesnext/aaaaaaaa/
+config/inventoryprofilesnext/*&*/
+config/inventoryprofilesnext/villager-trading-config-v2.json
+
+# Inventory Profiles Next generated dumps
+config/inventoryprofilesnext/all-items.txt
+config/inventoryprofilesnext/ModIntegrationExport.json
+config/inventoryprofilesnext/auto-screens/
+
+# RPG Series runtime tag cache (rebuilt on launch; a stale copy can lag behind mod updates)
+config/rpg_series/tag_cache.json
