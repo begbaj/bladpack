@@ -1,9 +1,12 @@
 #!/bin/bash
+set -euo pipefail
 
-if [ ! -d "build/" ]; then
-	mkdir build/
-fi
+cd "$(dirname "$0")"
+mkdir -p build/
 
 cd pack
 
-packwiz mr export -d ../build/
+version=$(grep -m1 '^version' pack.toml | cut -d'"' -f2)
+
+packwiz refresh
+packwiz mr export -o "../build/Bladpack-${version}.mrpack"

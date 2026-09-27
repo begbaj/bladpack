@@ -92,7 +92,7 @@ ServerEvents.recipes(event => {
   mektools.forEach(tool => {
     event.replaceInput(
       { output: tool },
-      'minecraft:stick',
+      '#c:rods/wooden',
       'aether:skyroot_stick'
     )
   })
