@@ -1,4 +1,14 @@
-kubejsbak/
 *.bak
 kubejs/config/web_server.json
 emi.json
+
+# No Chat Reports: encryptionKey is generated per install
+config/NoChatReports/NCR-Encryption.json
+# Inventory Profiles Next
+config/inventoryprofilesnext/*&*/
+config/inventoryprofilesnext/villager-trading-config-v2.json
+config/inventoryprofilesnext/all-items.txt
+config/inventoryprofilesnext/ModIntegrationExport.json
+config/inventoryprofilesnext/auto-screens/
+# RPG Series runtime tag cache
+config/rpg_series/tag_cache.json
