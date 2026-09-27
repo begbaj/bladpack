@@ -1,3 +1,4 @@
 kubejsbak/
 *.bak
 kubejs/config/web_server.json
+emi.json

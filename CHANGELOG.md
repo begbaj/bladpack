@@ -4,6 +4,8 @@
 
 - Security fix (2): similar to Security fix (1), Bladpack shipped with a pre-generated encryption key for the NoChatReports mod. That file has been removed and will now be regenerated on every install.
 
+- Removed per-player data that was accidentally shipped with the pack: EMI lookup/craft history, Inventory Profiles Next per-world and per-server data, and a few generated cache files. Your own EMI and IPN data is no longer overwritten on install.
+
 - New mod: Armor Model API (now required by the RPG Series mods)
 
 - Sodium: pinned to stable. Sodium Options API and Sodium Dynamic Lights only support Sodium 0.6:

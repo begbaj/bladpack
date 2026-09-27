@@ -89,10 +89,6 @@ file = "config/NoChatReports/NCR-Common.json"
 hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "0f61ac30bfc78653a30d715f793e30a6a43d6715106706487efd0aea5d43a84c"
-
-[[files]]
 file = "config/NoChatReports/NCR-ServerPreferences.json"
 hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
@@ -571,82 +567,6 @@ hash = "51aaba02b95d010f6a7c5261e18902ac190ff74f777c164b51f14dc719c89eb3"
 [[files]]
 file = "config/industrialforegoing/machine-resource-production.toml"
 hash = "7165754eee13e0378db81c047006ea403895747293ac0198435e9076d7955c43"
-
-[[files]]
-file = "config/inventoryprofilesnext/ModIntegrationExport.json"
-hash = "e522e7f8c9760d53cfb3a178c05840d4536d3749b1f989b222c4c7fdc7780671"
-
-[[files]]
-file = "config/inventoryprofilesnext/aaaaaaaa/prev-villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/aaaaaaaa/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/all-items.txt"
-hash = "548c3a2875815934382955aeb7d0cc5e7ad47c740d8b4eda86863e0d36ef7f52"
-
-[[files]]
-file = "config/inventoryprofilesnext/auto-screens/blocks-entities-with-screens.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/auto-screens/blocks-with-screens.txt"
-hash = "86e8dbfad973fba914a61c85164e4f265de3a8938217868afaf6a0096d039f8f"
-
-[[files]]
-file = "config/inventoryprofilesnext/auto-screens/item-with-screens.txt"
-hash = "8964583df6e9640109973c9e8ed7ee28c610c75d3997f6c444c6800252a7a2ee"
-
-[[files]]
-file = "config/inventoryprofilesnext/auto-screens/multi-screens.txt"
-hash = "e0f237f756c2633e60930f70cf1f3dc082f0341b261fdc7b26cf82447d975e05"
-
-[[files]]
-file = "config/inventoryprofilesnext/auto-screens/namespaces.txt"
-hash = "0921d2a2b7af52ef626330bb466a8b59208658ee21271e334273c38bf61dd64b"
-
-[[files]]
-file = "config/inventoryprofilesnext/auto-screens/script.txt"
-hash = "f36123c5c70a44044b892bf32e5dd80a155b332a39b997cc74fcfcb46ddf05e0"
-
-[[files]]
-file = "config/inventoryprofilesnext/auto-screens/unknown-screens.txt"
-hash = "b1cac8f9281bad96a799a3d346b5593192aa7e4cb98759dd0592c39d4a55d382"
-
-[[files]]
-file = "config/inventoryprofilesnext/bak/New World/lockSlots.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/bak/New World/prev-villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/bak/New World/refillDisabledSlots.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/bak/New World/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/bak/aaaaaaaa/prev-villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/bak/aaaaaaaa/refillDisabledSlots.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/inventoryprofilesnext/bak/aaaaaaaa/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
-file = "config/inventoryprofilesnext/begbaj.iliadboxos.it&40960/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/advgenerators.json"
@@ -1197,10 +1117,6 @@ file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "ae52e329cf09f854700e7e7118ee5c092f537f3a7f2073c7fdd0c7903f8d0ca3"
 
 [[files]]
-file = "config/inventoryprofilesnext/villager-trading-config-v2.json"
-hash = "d8159a94fc4562651a5c47dc83e46a7fd71dd70e143fca53d7b288393a87b4ef"
-
-[[files]]
 file = "config/invtweaks-client.toml"
 hash = "75f26dd03e4a7d1784fd12f6cab9fa98bbe81ee418a949470b67515671887ee0"
 
@@ -1439,10 +1355,6 @@ hash = "f38f954536b70734fe099bf19736b9adb0416af2bcf0ea30e71538e5ad49bd56"
 [[files]]
 file = "config/rpg_series/loot_scrolls_v2.json"
 hash = "05c8ce9414ca8a4b7f5b53425dbfe84a100754d878a166d1638b63c9ea14c5ae"
-
-[[files]]
-file = "config/rpg_series/tag_cache.json"
-hash = "17d57577f3224288de6c630dc08d5389c963376deb8253852fab31acb22c048d"
 
 [[files]]
 file = "config/sereneseasons/fertility.toml"
@@ -1747,10 +1659,6 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/yungsmenutweaks-neoforge-1_21.toml"
 hash = "d4a971fb1d9818c66f25e1132c520a93bf0b94410690b8d72475a46d7f34e912"
-
-[[files]]
-file = "emi.json"
-hash = "bd73f662ac4ed23526d16e04920efbae8c53cfba785f8732b92cd75037da5777"
 
 [[files]]
 file = "icon.png"

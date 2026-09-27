@@ -6,6 +6,10 @@ local/
 # Backup files
 *.bak
 
+# Nested ignore files are not honored by packwiz; keep them out of the pack
+.packwizignore
+.gitignore
+
 # Generated per-install by KubeJS (contains a random auth token)
 kubejs/config/web_server.json
 

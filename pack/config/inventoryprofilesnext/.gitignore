@@ -1,0 +1,8 @@
+*
+!.gitignore
+!integrationHints/
+!all-items.txt
+!inventoryprofiles.json
+!auto-screens/
+!ModIntegrationExport.json
+!villager-trading-config-v2.json
