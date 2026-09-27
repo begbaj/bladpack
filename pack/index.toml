@@ -1909,46 +1909,6 @@ file = "kubejs/startup_scripts/stages.js"
 hash = "f88ea4c6719f5a9a925b26f553060a6f4767132549e11e3efebb6b2fdb4fbbbb"
 
 [[files]]
-file = "kubejsbak/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
-file = "kubejsbak/assets/kubejs/textures/block/example_block.png"
-hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
-
-[[files]]
-file = "kubejsbak/assets/kubejs/textures/item/example_item.png"
-hash = "45a5f56eba6066ad05c70988a32b72c50cfeb6e35857739bd582007011ea002b"
-
-[[files]]
-file = "kubejsbak/client_scripts/main.js"
-hash = "ed188756cd1b0bcc8ba98112bbc786794615c15eecb5ea972bf537331ef78eea"
-
-[[files]]
-file = "kubejsbak/config/client.json"
-hash = "87a09ee1609bc799223c58cb6225c769bb4d0a1a0bb6d9186ff5f8875c7e9a37"
-
-[[files]]
-file = "kubejsbak/config/common.json"
-hash = "e00a67922942660d77c213379b5128a46c5abc894178b0be04006d325ff5f6b3"
-
-[[files]]
-file = "kubejsbak/config/web_server.json"
-hash = "62fb35662257cd2d45b6d4226b8426659b3f7a04a53505fe8035638f4a8d24bc"
-
-[[files]]
-file = "kubejsbak/server_scripts/main.js"
-hash = "dae099ae3be7f033c0c190ee8c3b023b42f6b235d9d0591be5926e8435dbd67f"
-
-[[files]]
-file = "kubejsbak/startup_scripts/main.js"
-hash = "5c4659e7bb368960801ccfce24ac3493fa14aae88a7e17b2a9cdfe1931985ffe"
-
-[[files]]
-file = "local/kubejs/dev.json"
-hash = "86f199072e7e94823d6c7fc3930542bd716fd1590d5a61d1e4a3d8947cbe9701"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -2717,11 +2677,3 @@ metafile = true
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
 metafile = true
-
-[[files]]
-file = "scripts/blad-recipies.zs"
-hash = "44de284a0955f0ec936ffd7f986379648828630caa293c565366f72d1de944bf"
-
-[[files]]
-file = "server/compose.yml"
-hash = "b9aa0b33056169541920d72fd9eae77be98fb050b366b09757aae719a10243cb"
